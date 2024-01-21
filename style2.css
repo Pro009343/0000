@@ -1,0 +1,94 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: #0776A0;
+    height: 100px;
+}
+.sam {
+    margin-top: 25px;
+    width: 87px;
+    height: 47.797px;
+
+}
+.photos {
+    color: #000;
+    font-family: Montserrat;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 10px;
+    background-color: #FFB600;
+    text-decoration: none;
+}
+h1 {
+    color: #000;
+    font-family: Montserrat;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+}
+.family {
+    width: 240px;
+    height: 250px;
+}
+.girls {
+    width: 200px;
+    height: 250px;
+}
+.home {
+    width: 380px;
+    height: 250px;
+}
+.familly {
+    text-align:left;
+    color:#FF2C00;
+    font-family: Montserrat;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+ul,li {
+    color: #000;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 10px;
+}
+ul {
+    list-style: url(https://learn.logikaschool.com/uploads/2021/01/Arrow%201_0_1611261359.svg);
+}
+.ss {
+    color: #000;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin: 20px;
+    border-top:3px solid black ;
+    border-bottom:3px solid black ;
+}
+footer {
+    background: #024C68;
+    padding: 10px;
+}
+footer p {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 10px;
+}
+main img {
+    margin: 5px;
+}
